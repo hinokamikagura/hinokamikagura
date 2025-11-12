@@ -1,4 +1,4 @@
-# Hi, I'm Kairos Stroud 👋
+# Hi, I'm Kairos 👋
 
 <div align="center">
   
@@ -13,15 +13,6 @@
 ## 🚀 About Me
 
 I'm a **Senior Web3 Backend Developer** with **8+ years of experience** specializing in **Go**, **TypeScript**, and **Rust**. I architect and build production-grade blockchain infrastructure and decentralized backend systems.
-
-- 🏦 **DeFi Platforms** 
-- 🎨 **NFT Marketplaces**
-- 📊 **Trading Terminals**
-- 🎮 **Gaming Infrastructure**
-- 🤖 **Trading Bots & MEV Bundlers**
-- 🔗 **Blockchain Data Platforms**
-
-**Multi-chain expertise**: Ethereum, Solana, Bitcoin, Polygon, BSC, Arbitrum, Optimism, and Bitcoin Layer 2s
 
 ---
 
