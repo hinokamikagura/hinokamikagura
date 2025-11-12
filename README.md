@@ -147,7 +147,7 @@ I'm a **Senior Web3 Backend Developer** with **8+ years of experience** speciali
 
 ## 📫 Let's Connect
 
-- 💼 **Portfolio**: [Your Portfolio URL](https://your-portfolio-url.com)
+- 💼 **Portfolio**: [Your Portfolio URL](https://kair0s.xyz)
 - 📧 **Email**: kairos.stroud@gmail.com
 - 💬 **Telegram**: [@hinokamikagoora](https://t.me/hinokamikagoora)
 - 🐦 **Twitter/X**: [@hinokamikaguura](https://x.com/hinokamikaguura)
