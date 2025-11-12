@@ -6,11 +6,6 @@
   
   **8+ years** architecting production-grade blockchain infrastructure | **13+ production projects** | **Multi-chain expertise**
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-3B7A57?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kairos-stroud)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hinokamikaguura)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hinokamikagoora)
-  
 </div>
 
 ---
@@ -60,58 +55,6 @@ I'm a **Senior Web3 Backend Developer** with **8+ years of experience** speciali
 
 ---
 
-## 🏆 Key Achievements
-
-- ✅ **13+ Production Projects** - DeFi platforms, NFT marketplaces, trading terminals, and blockchain infrastructure
-- ✅ **Multi-Chain Expertise** - Ethereum, Solana, Bitcoin, Polygon, BSC, Arbitrum, Optimism, and Bitcoin Layer 2s
-- ✅ **Full-Stack Capability** - Backend APIs, smart contracts, trading bots, MEV bundlers, and frontend applications
-- ✅ **Diverse Domains** - DeFi, NFTs, Gaming, Trading Platforms, AI/ML, and Bitcoin infrastructure
-
----
-
-## 🔥 Featured Projects
-
-### 🏦 DeFi & Trading
-- **[ChainPro](https://chainpro.xyz/)** - Hedge fund-grade terminal for onchain trading
-  - `Go` `Solana Web3` `ethers.js` `Multi-chain`
-  
-- **[FeeFree](https://app.feefree.fi/)** - Zero-fee DEX with minimal gas costs
-  - `JavaScript` `Solidity` `GraphQL`
-  
-- **[Ribbon Finance](https://www.ribbon.finance/)** - Crypto structured products for DeFi
-  - `Solidity` `Hardhat` `TypeScript` `Ethers.js`
-
-### 🎨 NFT Platforms
-- **[Monkai](https://github.com/hinokamikagura)** - Multi-chain NFT minting, swapping, and trading
-  - `Rust` `Solidity` `TypeScript` `React` `Next.js`
-  
-- **[Pine Instant NFT Loans](https://pine.loans/)** - Decentralized NFT financing protocol
-  - `Go` `TypeScript` `Ethers.js`
-
-### 🤖 Trading Bots & MEV
-- **[EVM-Bundler](https://github.com/hinokamikagura/evm-bundler)** - Transaction bundler to reduce gas fees
-  - `TypeScript` `Ethers.js` `Flashbots` `MEV-Share`
-  
-- **Solana Trading Bot** - Pumpfun & Raydium Bundler, Volume Bot, Copy Trading Bot, Sniper Bot
-  - `Rust` `TypeScript` `Jito Bundler`
-
-### 🔗 Blockchain Infrastructure
-- **[Signal21](https://app.signal21.io/)** - Bitcoin data and research platform
-  - `Go` `PostgreSQL` `GraphQL`
-  
-- **MemeDealer** - Comprehensive Rune Dex platform
-  - `TypeScript` `MongoDB` `Bitcoin` `Rune` `BitcoinJs` `React` `Next.js`
-
-### 🎮 Gaming
-- **[Legends of Elumia](https://www.elumia.io/)** - Next-generation MMORPG with NFT ownership
-  - `Go` `Solana` `Rust` `Solana Web3`
-
-### 🤖 AI & ML
-- **[MinervaAI](https://www.cengn.ca/project/case-studies/minerva-ai/)** - AI-enabled financial crime technology
-  - `Go` `Amazon Web Services`
-
----
-
 ## 🛠️ What I'm Currently Building
 
 🚧 **Crypto Asset Inheritance Platform** - A non-custodial, multi-chain inheritance and contingency transfer system that lets asset owners define beneficiaries and conditions while retaining self-custody.
@@ -133,7 +76,7 @@ I'm a **Senior Web3 Backend Developer** with **8+ years of experience** speciali
 
 ## 📫 Let's Connect
 
-- 💼 **Portfolio**: [Your Portfolio URL](https://kair0s.xyz)
+- 💼 **Portfolio**: [kair0s.xyz](https://kair0s.xyz)
 - 📧 **Email**: kairos.stroud@gmail.com
 - 💬 **Telegram**: [@hinokamikagoora](https://t.me/hinokamikagoora)
 - 🐦 **Twitter/X**: [@hinokamikaguura](https://x.com/hinokamikaguura)
