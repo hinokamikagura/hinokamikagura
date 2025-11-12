@@ -112,20 +112,6 @@ I'm a **Senior Web3 Backend Developer** with **8+ years of experience** speciali
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hinokamikagura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F2D27&title_color=3B7A57&icon_color=3B7A57&text_color=E8F3EC)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hinokamikagura&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F2D27&title_color=3B7A57&text_color=E8F3EC)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=hinokamikagura&theme=tokyonight&hide_border=true&background=1F2D27&ring=3B7A57&fire=3B7A57&currStreakLabel=3B7A57)
-  
-</div>
-
----
-
 ## 🛠️ What I'm Currently Building
 
 🚧 **Crypto Asset Inheritance Platform** - A non-custodial, multi-chain inheritance and contingency transfer system that lets asset owners define beneficiaries and conditions while retaining self-custody.
