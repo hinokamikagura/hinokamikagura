@@ -55,14 +55,6 @@ I'm a **Senior Web3 Backend Developer** with **8+ years of experience** speciali
 
 ---
 
-## 🛠️ What I'm Currently Building
-
-🚧 **Crypto Asset Inheritance Platform** - A non-custodial, multi-chain inheritance and contingency transfer system that lets asset owners define beneficiaries and conditions while retaining self-custody.
-
-**Tech Stack**: `Bitcoin` `EVM Chains` `Solana` `TypeScript` `Next.js 15`
-
----
-
 ## 📈 Expertise Areas
 
 - 🔐 **Smart Contract Development** - DeFi protocols, NFT platforms, token standards
@@ -71,34 +63,4 @@ I'm a **Senior Web3 Backend Developer** with **8+ years of experience** speciali
 - 🤖 **Trading Infrastructure** - MEV bundlers, trading bots, order routing systems
 - 📊 **Blockchain Analytics** - Data indexing, on-chain analytics, research platforms
 - 🎮 **Gaming Backends** - NFT gaming infrastructure, asset management systems
-
----
-
-## 📫 Let's Connect
-
-- 💼 **Portfolio**: [kair0s.xyz](https://kair0s.xyz)
-- 📧 **Email**: kairos.stroud@gmail.com
-- 💬 **Telegram**: [@hinokamikagoora](https://t.me/hinokamikagoora)
-- 🐦 **Twitter/X**: [@hinokamikaguura](https://x.com/hinokamikaguura)
-- 📱 **WhatsApp**: [+1 (343) 517-4872](https://wa.me/13435174872)
-
----
-
-## 💡 Fun Facts
-
-- 🎯 Built backend systems handling **millions of transactions** across multiple chains
-- 🚀 Architected DeFi platforms processing **billions in volume**
-- 🔧 Created **MEV bundlers** using Flashbots and Jito
-- 📚 Passionate about **open-source** and **Web3 infrastructure**
-- 🌱 Always learning and exploring new blockchain technologies
-
----
-
-<div align="center">
-  
-  ### "Building production-grade infrastructure that powers the decentralized web"
-  
-  ⭐️ From [hinokamikagura](https://github.com/hinokamikagura)
-  
-</div>
 
